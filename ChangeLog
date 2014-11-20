@@ -1,4 +1,7 @@
 2014-11-19  Barry Allard  <barry.allard@gmail.com>
+	* 1.4-2 bootstrap script fix
+
+2014-11-19  Barry Allard  <barry.allard@gmail.com>
 	* 1.4-1 documentation update, fix autotools build version
 
 2014-11-19  Barry Allard  <barry.allard@gmail.com>
